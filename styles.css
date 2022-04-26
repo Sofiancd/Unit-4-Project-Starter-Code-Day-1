@@ -1,0 +1,50 @@
+img {
+    height: 150px;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    border: 5px dashed pink;
+    margin: 10px;
+}
+
+body {
+    background-color: #c63d39;
+}
+
+img {
+    margin: 50px;
+}
+
+.circle {
+    border-radius: 100%;
+}
+
+.small-height {
+    height: 200px;
+    justify-content: center;
+}
+
+.div {
+    text-align: center;
+}
+
+.post {
+    text-align: right;
+}
+
+.numbers {
+    text-align: right;
+    border: 5px;
+    justify-content: space-between;
+}
+
+.small-width {
+    width: 200px;
+}
+
+.pictures {
+    display: flex;
+    justify-content: center;
+}
